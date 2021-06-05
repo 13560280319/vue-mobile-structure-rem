@@ -1,7 +1,7 @@
 <template>
-  <div>123456</div>
+  <div>你好</div>
 </template>
-<style>
+<style lang="less" scoped>
 div{
   font-size: 60px;
 }
